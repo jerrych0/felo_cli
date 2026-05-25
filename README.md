@@ -60,4 +60,4 @@ You can provide your API key in one of the following ways:
 
 ## License
 
-[Add your license here, e.g., MIT]
+MIT License
